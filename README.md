@@ -6,6 +6,7 @@
 - [Shiny articles](https://shiny.rstudio.com/articles/)
 - [*Mastering Shiny*](https://mastering-shiny.org/)
 - [Shiny cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
+- [*Outstanding User Interfaces Using Shiny*](https://divadnojnarg.github.io/outstanding-shiny-ui/)
 
 ## R 
 - [*R for Data Science*](https://r4ds.had.co.nz/)
