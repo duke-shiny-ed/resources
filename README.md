@@ -25,4 +25,4 @@
 
 ## Existing StatEd apps 
 - [Book Of Apps for Statistics Teaching](https://sites.psu.edu/shinyapps/)
--[ShinyEd](http://www2.stat.duke.edu/~mc301/shinyed/)
+- [ShinyEd](http://www2.stat.duke.edu/~mc301/shinyed/)
