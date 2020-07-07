@@ -7,6 +7,8 @@
 - [*Mastering Shiny*](https://mastering-shiny.org/)
 - [Shiny cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
 - [*Outstanding User Interfaces Using Shiny*](https://divadnojnarg.github.io/outstanding-shiny-ui/)
+- [Talk: "Styling Shiny apps with Sass and Bootstrap 4](https://rstudio.com/resources/rstudioconf-2020/styling-shiny-apps-with-sass-and-bootstrap-4/)
+  - [Slides](https://speakerdeck.com/jcheng5/styling-shiny) 
 
 ## R 
 - [*R for Data Science*](https://r4ds.had.co.nz/)
