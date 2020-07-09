@@ -9,6 +9,7 @@
 - [*Outstanding User Interfaces Using Shiny*](https://divadnojnarg.github.io/outstanding-shiny-ui/)
 - [Talk: "Styling Shiny apps with Sass and Bootstrap 4](https://rstudio.com/resources/rstudioconf-2020/styling-shiny-apps-with-sass-and-bootstrap-4/)
   - [Slides](https://speakerdeck.com/jcheng5/styling-shiny) 
+- [Talk: Shiny Dev Series - The Importance of User Experience with John Coene](https://community.rstudio.com/t/shiny-dev-series-the-importance-of-user-experience-with-john-coene/72264)
 
 ## R 
 - [*R for Data Science*](https://r4ds.had.co.nz/)
