@@ -31,6 +31,13 @@
 - [Latex symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 - [Adding math equations in Shiny](https://shiny.rstudio.com/gallery/mathjax.html)
 
+## Design / color palettes
+- [`RColorBrewer` package](https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html)
+    - Can select color blind friendly palettes
+- [Coloring for color blindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)
+- [Color Hunt color palettes](https://colorhunt.co/)
+
+
 ## Existing StatEd apps 
 - [Book Of Apps for Statistics Teaching](https://sites.psu.edu/shinyapps/)
 - [ShinyEd](http://www2.stat.duke.edu/~mc301/shinyed/)
