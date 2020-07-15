@@ -26,6 +26,11 @@
 - [*Modern Dive*](https://moderndive.com/)
 - [*Broadening Your Statisical Horizons*](https://bookdown.org/roback/bookdown-bysh/) (advanced modeling)
 
+## Adding mathetmatical equations 
+
+- [Latex symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
+- [Adding math equations in Shiny](https://shiny.rstudio.com/gallery/mathjax.html)
+
 ## Existing StatEd apps 
 - [Book Of Apps for Statistics Teaching](https://sites.psu.edu/shinyapps/)
 - [ShinyEd](http://www2.stat.duke.edu/~mc301/shinyed/)
