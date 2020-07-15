@@ -30,6 +30,7 @@
 
 - [Latex symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 - [Adding math equations in Shiny](https://shiny.rstudio.com/gallery/mathjax.html)
+- [Writing inline equations](http://sas-and-r.blogspot.com/2015/12/write-in-line-equations-in-your-shiny.html)
 
 ## Design / color palettes
 - [`RColorBrewer` package](https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html)
